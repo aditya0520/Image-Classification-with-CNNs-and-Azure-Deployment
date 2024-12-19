@@ -65,12 +65,6 @@ The best-performing model (AlexNet) was deployed to Azure using a container serv
 
 ## Usage
 
-### Local Inference
-
-Run the `test_local_deployment` script to test the model locally:
-```bash
-python test_local.py
-```
 
 ### REST API Endpoint
 
